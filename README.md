@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=digvijay9002" alt="digvijay9002" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://digvijay-chavda.netlify.app/](https://digvijay-chavda.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/digvijay9002?tab=repositories](https://digvijay-chavda.netlify.app/)
 
 - 📫 How to reach me **digvijay222002@gmail.com**
 
